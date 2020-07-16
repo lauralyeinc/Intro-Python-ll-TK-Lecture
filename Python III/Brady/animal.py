@@ -23,7 +23,7 @@ class Animal:
         self.color = color
         self.height = height
         self.diet = diet
-        self. species = species
+        self.species = species
         self.owners = owners 
         Animal.count += 1  
     #actions 
